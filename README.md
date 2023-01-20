@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @thefalc
 
-My name is Sean Falconer, I am Head of Developer Relations at [Skyflow](https://skyflow.com). Prior to Skyflow, I led developer relations for
+My name is Sean Falconer, I am Head of Marketing and Developer Relations at [Skyflow](https://skyflow.com). Prior to Skyflow, I led developer relations for
 Google’s Business Communications product suite, founded Proven.com and I was a Postdoctoral student in Bioinformatics at Stanford University.
 
 I consider myself a generalist, I’ve been programming and hacking on things since I was a kid. I’ve worked on everything from web, Android and iOS, chatbots, and desktop apps,
